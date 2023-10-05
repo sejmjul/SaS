@@ -1,5 +1,4 @@
-import scipy
-
+import scipy, pandas, numpy
 
 print("hello")
 
