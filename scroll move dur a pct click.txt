@@ -1,0 +1,21 @@
+scroll move dur a pct click - 0.64!
+mouse move a click - -0.671902!
+mouse mnove total a page actcity dur printnime si cor - 0.568999
+wild mouse duration a pct input - 0.856622!
+scroll move dur a pct doubleclick - 0.437756
+scroll move dur a mouse move - -0.795604!
+
+
+scroll move duration/pcoet klikov ku ack zistili sme, ze pomer ked je okolo 1 tak mferi najviac nakupuju
+pct mouse move a pct click ked su v pomere cca 0.5, cize 2x kliknes na jeden mouse move tak mfer nakupi akoze ale riade fakt
+wild mouse dur a pct input ma fess dobru korelaciu, ale ku ack nic, smrdi asi
+
+
+PROBLEMY, datumy v user.csv maju nekonzistentny format registration, zmenia sa vsetky na rok/mesiac/den
+duplicitne user id pre inychy ludi v user.csv -> co ja viem, taketo data asi zahodimme, podla toho co povie peter pann
+nelogicka hodnota pre pct input aby bola mensia ako 1 alebo co to vobec znamena Peto?
+
+HYPOTEZY:
+perfektny pomer pre nakupovanie vyzera byt bla bla cize mat stranku eshopu taku, aby nemusel cloviecik daleko scrollovat
+geopoliticka, clovek kupuje produkty z obchodu jemu blizkeho ako z nejakeho, ktory je daleko !! this !!
+
