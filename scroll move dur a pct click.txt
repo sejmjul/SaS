@@ -17,5 +17,6 @@ nelogicka hodnota pre pct input aby bola mensia ako 1 alebo co to vobec znamena 
 
 HYPOTEZY:
 perfektny pomer pre nakupovanie vyzera byt bla bla cize mat stranku eshopu taku, aby nemusel cloviecik daleko scrollovat
+pri normalovej dist  je mean 1
 geopoliticka, clovek kupuje produkty z obchodu jemu blizkeho ako z nejakeho, ktory je daleko !! this !!
 
